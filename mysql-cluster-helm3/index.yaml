@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  mysql-cluster:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-03-02T12:07:47.938079+01:00"
+    description: A Helm chart for easy deployment of a MySQL cluster with MySQL operator.
+    digest: 6b9e9375626e89e3e5a361c95e7d14f6647aeeb93f677db87a8a6f6c71c0c255
+    name: mysql-cluster
+    urls:
+    - https://sbakiu.github.io/mysql-operator/mysql-cluster-0.2.0.tgz
+    version: 0.2.0
+generated: "2020-03-02T12:07:47.936146+01:00"
